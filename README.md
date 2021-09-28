@@ -19,4 +19,4 @@ Important points.
 ## Plotting Accuracy and Loss.
 Verifies model performance.
 ## Prediction
-I have made prediction on the test test, but as already mentioned the as the test set was not labelled, I have used an example where it is visually evident that the model is working FINE! :)
+I have made prediction on the test test, but as already mentioned the test set was not labelled, I have used an example where it is visually evident that the model is working FINE! :)
