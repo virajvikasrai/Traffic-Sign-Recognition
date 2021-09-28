@@ -12,5 +12,9 @@ One hot encoding the labels. (required by the softmax later-on)
 ## Data Augmentaion
 We must be carefull as CNN's can overfit easily and might not perform well on validation and test set. Augmenting the data is one of the way to do so. Here I'll use keras image-data-generator.
 ## Building Model.
+Important points.
+* Batchnorm layer for regularization and adapt to covariance shift.
+* Dropout (0.25) for regularization.
+* Softmax layer for muticlass classification.
 ## Plotting Accuracy and Loss.
 Verifies model performance.
