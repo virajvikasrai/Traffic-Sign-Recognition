@@ -1,4 +1,4 @@
-# Traffic-Sign-Recognition
+# Traffic Sign Recognition | Computer Vision
 Convolutional Neural Network model to classify 43 categories of traffic sign.
 ## Importing Dataset
 Imported the dataset from the machine. Extracted the class of the image using the image path. Resized the image and dumped it in a list and dumped their class number in another ist in the same order.
